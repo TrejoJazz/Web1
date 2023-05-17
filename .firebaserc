@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "login-estetica": {
+      "hosting": {
+        "Estetica": [
+          "login-estetica"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "login-estetica"
+  }
+}
